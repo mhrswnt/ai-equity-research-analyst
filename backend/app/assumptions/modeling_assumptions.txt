@@ -1,0 +1,28 @@
+Financial Modeling Assumptions for Indian Stock Markets
+
+Revenue Growth Assumptions
+- Domestic Market Growth:** Base case of 8-11% CAGR for mature formulation businesses.
+- Export & Emerging Markets:** 9-11% growth for emerging markets; 3-5% for US generics (factoring in pricing pressures).
+- High-Growth Segments:** 12-15% growth for CDMOs, APIs, and biosimilar-focused companies.
+- Key Drivers:** Factor in new product launch pipelines, patent expirations (patent cliffs), and volume expansion vs. price erosion.
+
+Margin Assumptions
+- Operating Margin (EBITDA) Target:** 20-25% for established large-cap pharma; 18-22% for mid-size API/formulation players.
+- Gross Margin:** 60-70% depending on product mix (higher for complex generics/specialty, lower for pure API).
+- R&D Spending:** 5-9% of revenue for standard generic players; 10-12% for those investing in complex therapeutics and biosimilars.
+
+Valuation Parameters
+- Discount Rate (WACC):** 10-12% for large-cap stable pharma; 12-14% for mid-caps and CDMOs.
+- Terminal Growth Rate:** 4-6% (aligned with India's long-term nominal GDP growth and inflation expectations).
+- Multiples (EV/EBITDA):** 15-20x for traditional large-cap pharma; 20-30x for high-growth CDMO/specialty.
+- Multiples (P/E):** 38-40x P/E average for NIFTY Pharma index (reflecting defensive premium and growth).
+
+Capital Structure
+- Target Debt-to-Equity Ratio:** 0.1-0.3 (most large Indian pharma companies have low leverage/net-cash).
+- Tax Rate Assumption:** ~25.17% (effective Indian corporate tax rate under the new regime).
+- CAPEX as Percentage of Revenue:** 5-8% (maintenance, PLI scheme expansions, facility upgrades).
+
+Risk Adjustments
+- **Regulatory Uncertainty:** Premium for USFDA regulatory actions (warning letters, import alerts, remediation).
+- **Pricing Risks:** Domestic price controls (NLEM/DPCO caps) and US generic price erosion.
+- **Supply Chain Concentration:** Reliance on imported KSMs/APIs (mitigated slightly by PLI schemes).

@@ -1,0 +1,17 @@
+langchain==1.2.7
+langchain-google-genai
+langchain-chroma==1.1.0
+langchain-community==0.4.1
+langgraph==1.0.7
+pypdf==6.6.2 
+chromadb==1.4.1 
+python-dotenv==1.2.1
+llama-index==0.14.13 
+llama-index-llms-google-genai
+llama-index-tools-code-interpreter==0.4.1 
+yfinance==1.1.0
+langchain-groq
+llama-index-llms-groq
+llama-cloud-services==0.6.54 
+nest-asyncio==1.6.0
+
